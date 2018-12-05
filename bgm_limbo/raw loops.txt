@@ -1,0 +1,315 @@
+{
+    "th06_01.wav": {
+        "loop_start": 324688,
+        "loop_end":   995457
+    },
+    //"th06_01.wav": {
+    //    "loop_start": 324688,
+    //    "loop_end":   548144
+    //},
+    //"th06_01.wav": {
+    //    "loop_start": 1130241,
+    //    "loop_end":   1185510
+    //},
+    //"th06_01.wav": {
+    //    "loop_start": 1239866,
+    //    "loop_end":   1276130
+    //},
+    "th06_02.wav": {
+        "loop_start": 337131,
+        "loop_end":   628876
+    },
+    //"th06_02.wav": {
+    //    "loop_start":  907349,
+    //    "loop_end":   1199432
+    //},
+    //"th06_02.wav": {
+    //    "loop_start": 140994,
+    //    "loop_end":   204919
+    //},
+    "th06_03.wav": {
+        "loop_start":  76955,
+        "loop_end":   221884
+    },
+    //"th06_03.wav": {
+    //    "loop_start": 719830,
+    //    "loop_end":   864734
+    //},
+    //"th06_03.wav": {
+    //    "loop_start": 1545084,
+    //    "loop_end":   1618142
+    //},
+    "th06_04.wav": {
+        "loop_start": 139827,
+        "loop_end":   194875
+    },
+    //"th06_04.wav": {
+    //    "loop_start": 837386,
+    //    "loop_end":   984113
+    //},
+    //"th06_04.wav": {
+    //    "loop_start": 2044663,
+    //    "loop_end":   2349005
+    //},
+    //"th06_04.wav": {
+    //    "loop_start": 2611928,
+    //    "loop_end":   2649590
+    //},
+    "th06_05.wav": {
+        "loop_start": 242492,
+        "loop_end":   381995
+    },
+    //"th06_05.wav": {
+    //    "loop_start":  50803,
+    //    "loop_end":   155329
+    //},
+    //"th06_05.wav": {
+    //    "loop_start": 1306248,
+    //    "loop_end":   1373203
+    //},
+    //"th06_05.wav": {
+    //    "loop_start": 1861369,
+    //    "loop_end":   1930861
+    //},
+    "th06_06.wav": {
+        "loop_start": 133729,
+        "loop_end":   296876
+    },
+    //"th06_06.wav": {
+    //    "loop_start": 3768382,
+    //    "loop_end":   3916761
+    //},
+    "th06_07.wav": {
+        "loop_start": 575651,
+        "loop_end":   796201
+    },
+    //"th06_07.wav": {
+    //    "loop_start": 106986,
+    //    "loop_end":   327629
+    //},
+    "th06_08.wav": {
+        "loop_start": 3193641,
+        "loop_end":   3303249
+    },
+    //"th06_08.wav": {
+    //    "loop_start": 339572,
+    //    "loop_end":   445615
+    //},
+    "th06_09.wav": {
+        "loop_start": 1746067,
+        "loop_end":   1884761
+    },
+    "th06_10.wav": {
+        "loop_start": 285873,
+        "loop_end":   465415
+    },
+    //"th06_10.wav": {
+    //    "loop_start": 1603460,
+    //    "loop_end":   1727381
+    //},
+    "th06_11.wav": {
+        "loop_start": 780024,
+        "loop_end":   997377
+    },
+    //"th06_11.wav": {
+    //    "loop_start": 1903512,
+    //    "loop_end":   2193486
+    //},
+    "th06_12.wav": {
+        "loop_start": 151083,
+        "loop_end":   230664
+    },
+    "th06_13.wav": {
+        "loop_start": 162013,
+        "loop_end":   307827
+    },
+    //"th06_13.wav": {
+    //    "loop_start": 713437,
+    //    "loop_end":   864665
+    //},
+    "th06_14.wav": {
+        "loop_start": 2418362,
+        "loop_end":   2565194
+    },
+    "th06_15.wav": {
+        "loop_start": 1354948,
+        "loop_end":   1628118
+    },
+    //"th06_15.wav": {
+    //    "loop_start": 1098896,
+    //    "loop_end":   1235295
+    //},
+    //"th06_15.wav": {
+    //    "loop_start": 808770,
+    //    "loop_end":   945327
+    //},
+    //"th06_15.wav": {
+    //    "loop_start": 2489238,
+    //    "loop_end":   2559744
+    //},
+    "th06_16.wav": {
+        "loop_start": 410001,
+        "loop_end":   531881
+    },
+    //"th06_16.wav": {
+    //    "loop_start": 134868,
+    //    "loop_end":   256879
+    //},
+    "th06_17.wav": {
+        "loop_start": 1502433,
+        "loop_end":   1584490
+    },
+}
+
+
+{
+    "th07_01.wav": {
+        "loop_start": 129431,
+        "loop_end":   258417
+    },
+    "th07_02.wav": {
+        "loop_start":  848073,
+        "loop_end":   1141553
+    },
+    //"th07_02.wav": {
+    //    "loop_start": 117829,
+    //    "loop_end":   274055
+    //},
+    "th07_03.wav": {
+        "loop_start":  36021,
+        "loop_end":   251465
+    },
+    //"th07_03.wav": {
+    //    "loop_start":  1620766,
+    //    "loop_end":    1765193
+    //},
+    "th07_04.wav": {
+        "loop_start":   74948,
+        "loop_end":    375249
+    },
+    //"th07_04.wav": {
+    //    "loop_start":  1284366,
+    //    "loop_end":    1360323
+    //},
+    //"th07_04.wav": {
+    //    "loop_start":  1055333,
+    //    "loop_end":    1205611
+    //},
+    //"th07_04.wav": {
+    //    "loop_start":  4907162,
+    //    "loop_end":    5057314
+    //},
+    "th07_05.wav": {
+        "loop_start":  652412,
+        "loop_end":   1087322
+    },
+    "th07_06.wav": {
+        "loop_start": 252250,
+        "loop_end":   322181
+    },
+    "th07_07.wav": {
+        "loop_start":  755911,
+        "loop_end":   1031095
+    },
+    //"th07_07.wav": {
+    //    "loop_start": 1168261,
+    //    "loop_end":   1443448
+    //},
+    //"th07_07.wav": {
+    //    "loop_start": 2268231,
+    //    "loop_end":   2818049
+    //},
+    //"th07_07.wav": {
+    //    "loop_start": 3367721,
+    //    "loop_end":   3505331
+    //},
+    //"th07_07.wav": {
+    //    "loop_start": 3368208,
+    //    "loop_end":   3643402
+    //},
+    //"th07_07.wav": {
+    //    "loop_start": 6804576,
+    //    "loop_end":   6872522
+    //},
+	"th07_08.wav": {
+        "loop_start": 2520079,
+        "loop_end":   2808233
+    },
+    "th07_09.wav": {
+        "loop_start": 84683,
+        "loop_end":   356261
+    },
+    "th07_10.wav": {
+        "loop_start":  73034,
+        "loop_end":   364940
+    },
+    //"th07_10.wav": {
+    //    "loop_start":  94435,
+    //    "loop_end":   140424
+    //},
+    "th07_11.wav": {
+        "loop_start": 119545,
+        "loop_end":   256081
+    },
+    //"th07_11.wav": {
+    //    "loop_start": 2526715,
+    //    "loop_end":   2868178
+    //},
+    //"th07_11.wav": {
+    //    "loop_start": 392477,
+    //    "loop_end":   460935
+    //},
+    "th07_12.wav": {
+        "loop_start":  870720,
+        "loop_end":   1071741
+    },
+    "th07_13.wav": {
+        "loop_start": 771524,
+        "loop_end":   907239
+    },
+    ////////"th07_13.wav": {
+    ////////    "loop_start": 2910707,
+    ////////    "loop_end":   2910823
+    ////////},
+    //"th07_13.wav": {
+    //    "loop_start": 2936687,
+    //    "loop_end":   3072036
+    //},
+    "th07_14.wav": {
+        "loop_start": 348923,
+        "loop_end":   478698
+    },
+    "th07_15.wav": {
+        "loop_start": 241450,
+        "loop_end":   377159
+    },
+    "th07_16.wav": {
+        "loop_start": 322564,
+        "loop_end":   838892
+    },
+    "th07_17.wav": {
+        "loop_start": 305213,
+        "loop_end":   440963
+    },
+    //"th07_17.wav": {
+    //    "loop_start": 92985,
+    //    "loop_end":   161118
+    //}
+    "th07_18.wav": {
+        "loop_start":  90317,
+        "loop_end":   348106
+    },
+    "th07_19.wav": {
+        "loop_start": 754518,
+        "loop_end":   837196
+    },
+    //"th07_19.wav": {
+    //    "loop_start": 754518,
+    //    "loop_end":   837196
+    //},
+    "th07_20.wav": {
+        "loop_start": 707561,
+        "loop_end":   1005876
+    },
+}
+}
