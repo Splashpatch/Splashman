@@ -1,7 +1,7 @@
 {
 	"dependencies": [
 		"nmlgc/base_tsa",
-		"Splashman/sc88pro_base"
+		"Splashman/bgm_sc88pro_base"
 	],
 	"id": "bgm_sc88pro",
 	"servers": [
