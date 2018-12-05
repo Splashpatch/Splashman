@@ -12,7 +12,7 @@ Support the artist: http://carrotwine.muse.weblife.me/, https://www.dlsite.com/h
 
 * bgm_sc88pro:
 BGM mod using ZUN's Roland SC-88Pro MIDI versions. Fully based on RomantiqueTp's recordings (https://www.shrinemaiden.org/forum/index.php?topic=18989.0)
-Supported games: Th06, Th07, Th08, Th09 (demo tracks only).
+Supported games: Th06, Th07, Th08, Th09(demo tracks only).
 
 * bgm_rockgirl_base: Base files for bgm_rockgirl.
 * bgm_sc88pro_base: Base files for bgm_sc88pro.
