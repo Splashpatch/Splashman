@@ -1,6 +1,6 @@
 {
 	"contact": "splashthpatch@gmail.com",
-	"id": "SplashBGM",
+	"id": "Splashman",
 	"patches": {
 		"bgm_limbo": "BGM Legend in Limbo.",
 		"bgm_rockgirl": "BGM mod with CarrotWine's 'Touhou Rockgirl' arrange albums.",
