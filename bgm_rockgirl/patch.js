@@ -5,7 +5,11 @@
 	],
 	"id": "bgm_rockgirl",
 	"servers": [
-		"https://raw.githubusercontent.com/Splashpatch/SplashBGM/master/bgm_rockgirl/"
+		"https://raw.githubusercontent.com/Splashpatch/SplashBGM/master/bgm_rockgirl/",
+		"https://thcrap.nmlgc.net/repos/Splashman/bgm_rockgirl/",
+		"http://thcrap.nmlgc.net/repos/Splashman/bgm_rockgirl/",
+		"https://mirrors.thpatch.net/Splashman/bgm_rockgirl/",
+		"http://mirrors.thpatch.net/Splashman/bgm_rockgirl/"
 	],
 	"title": "BGM mod using CarrotWine's 'Touhou Rockgirl' arrange albums."
 }
