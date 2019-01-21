@@ -1,5 +1,4 @@
-# Splashman
-Splashman's thcrap BGM patches.
+# Splashman's thcrap BGM patches.
 
 * bgm_limbo:
 BGM Legend in Limbo. Troll patch which turns the original BGM into terrifying, never resolving blueballs loops. Based on an idea by SkuddeOuo https://www.youtube.com/watch?v=HzbdDHCWSP4.
