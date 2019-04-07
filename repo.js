@@ -10,7 +10,8 @@
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Splashpatch/SplashBGM/master/",
-		"https://mirrors.thpatch.net/Splashman/"
+		"https://mirrors.thpatch.net/Splashman/",
+		"http://mirrors.thpatch.net/Splashman/"
 	],
 	"title": "Splashman's BGM patches."
 }
